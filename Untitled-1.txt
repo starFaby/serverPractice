@@ -1,0 +1,12 @@
+ng g c login
+ng g c resetLogin
+ng g m home --routing true
+ng g c home
+ng g m admin --routing true
+ng g c admin
+ng g c admin/menu
+ng g c admin/footer
+ng g m admin/galeria --routing true
+ng g c admin/galeria
+ng g m admin/noticias --routing true
+ng g c admin/noticias
